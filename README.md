@@ -1,4 +1,4 @@
-# cobd74ef1ab096481c52ccdf8
+# Digital business card
 
 Quick start:
 
